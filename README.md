@@ -15,4 +15,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-rafce - atalho  de construção usando 
+rafce - atalho  de construção com a extensão ES7+ React/Redux/React-Native snippets .
+ git commit --amend -m "texto" - permite alterar o nome do ultimo commit
